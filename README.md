@@ -166,8 +166,7 @@ end behavioral;
 
 **Sandeep Kumar**
 ECE Student | Digital Design Enthusiast
-🔗 [LinkedIn Profile](#)
-
+🔗 [www.linkedin.com/in/sandeepkumar2612](www.linkedin.com/in/sandeepkumar2612)
 ---
 
 ## 🧠 Learnings
